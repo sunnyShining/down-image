@@ -1,0 +1,14 @@
+{
+  "name": "down-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "author": "sunshine <17765293970@163.com>",
+   "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "repository": "https://github.com/sunnyShining/down-image.git"
+}
